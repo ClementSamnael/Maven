@@ -1,3 +1,4 @@
+package dev;
 import com.github.lalyos.jfiglet.FigletFont;
 
 public class App {
